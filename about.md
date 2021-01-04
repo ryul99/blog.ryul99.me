@@ -20,4 +20,4 @@ key: page-about
 
 <img src="/assets/profile-placeholder.png" title="Profile Picture" class="profile">
 
-I'm developer and student from Korea. I am interested in ML(Deep Learning) and DevOps. You can see my work at my [github](https://github.com/ryul99/). You can see me on [Twitter](https://twitter.com/ryul99_dev) too.
+github에서 [ryul99](https://github.com/ryul99/), 트위터에서 [ryul99_dev](https://twitter.com/ryul99_dev), [ryul99_game](https://twitter.com/ryul99_game) 등의 계정을 가지고 있는 ryul99입니다. 이 블로그는 일상/게임 블로그가 될 것 같네요. 제 기술블로그는 [torch.vision](https://torch.vision)입니다.

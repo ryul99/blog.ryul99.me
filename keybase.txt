@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ryul_99
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.ryul99.me
+  * I am ryul_99 (https://keybase.io/ryul_99) on keybase.
+  * I have a public key with fingerprint A18B E3FE DDCF D4F9 BC46  D696 C1C3 4851 BA8B 6E67
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101a15013d3b213bc728afaec10b91e7502d85f3d2a7fe42e621c7c64e5e9b5b2c60a",
+      "fingerprint": "a18be3feddcfd4f9bc46d696c1c34851ba8b6e67",
+      "host": "keybase.io",
+      "key_id": "c1c34851ba8b6e67",
+      "kid": "0101a15013d3b213bc728afaec10b91e7502d85f3d2a7fe42e621c7c64e5e9b5b2c60a",
+      "uid": "f839edf7578251dae7ce179bd3a8d319",
+      "username": "ryul_99"
+    },
+    "service": {
+      "hostname": "blog.ryul99.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1609777264,
+  "expire_in": 157680000,
+  "prev": "afea005c4b05e6f77339dd08bedd7891e84c25a04cf82379289b82f2ef82f064",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJbSBRRGF7vKBVG0AWN4mRFtdjcz8xmoUg+RAZLhg8Gy5zLuIPbzjYz
+qy61VJAg3USCwi4IllgQlYFYlqCrZWBQmmUUZBlFFFRoQb1UZ6Teeuy8HP7/fN93
+vv87Z3h+hi8vrbX/qt0TKOlLGx1si/tCs6WxfQBZJAEC+0AdndtohFDHDdWZBAQA
+x3O8zsscLxIRCbyIMBRU3dAp5jmk8RTKnEBU2RCJoEODSgJVBB5DrEhUphqSkYAV
+Tgd+YJjRWmrHbDPqMlmdVxEVDUoINohkaAhLClE0BfNYlFSZR7qKFKpARgxbjsdg
+5pDu0GLTYj1WhObs/QP/n33H5+QMVdQoMaAMVUHmiU4hpjzUEBF1lYi85gEdakf1
+PZSh7UQ8EtI0kPQD1qw3MfVy9Qb5A0ARq7bYQ2laMWv4Qcy2XAtbEXYWdt2YE/C4
+biLmgRsoCv2RCSEzSliQjFFPbce0oiDAMyR2TU+XVzgNQigokh/Qxphp05DpIWSo
+qBxb3j203ovfoDrHyVhCnEwVA0JR1Ajh2JsQAlUWjyphQdY5CRuqIEJNUDWkCoZA
+WWlwigS8wfZGLRCQReZTr2Wajlkb1d24TUEyNbA705eW58vOSvd+mC8vN//vvxs/
+nvNz1czK1Seyr31r+/DIt0O4cqhwevhAafZXZahy2c3iqs1FNZl1ZXedpUfam16A
+vDOVI40fX13KCif2b2lPNNTkzE50nYu3+R/dT/34HjbGVjyYLD/4cPBwycsHRROT
+rclW1HzjcnD5l/G3VblGlnzrQvrgwIZe0lw1/H4UFPR2DW/6tH3dM9Sw9/bJzo3J
+w72fy1LbzKfta6sPrLr+PH/gbO760ddDiVTBrccdW30Xx6a77+xAC4IyN1Z+9Fd/
+clF3tr2m41714l0LW381RXa+O9KTmvnmzD+/xJ533O4ZnGoY6Wt+g9cXtozkZ2hu
+57GWinBZxekPp3KDU+mZpU+agy31wd9nN0T4
+=xAx4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryul_99
+
+==================================================================
